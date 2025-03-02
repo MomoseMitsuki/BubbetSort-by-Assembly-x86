@@ -1,7 +1,5 @@
 # BubbetSort-by-Assembly-x86
 
-80386汇编实现冒泡排序
-
 使用80386指令集和masm32汇编开发工具包实现
 
 main stack
